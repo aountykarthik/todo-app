@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aountykarthik/todo-app/static/css/main.c45ee677.css",
+    "main.js": "/aountykarthik/todo-app/static/js/main.6faa3cf6.js",
+    "index.html": "/aountykarthik/todo-app/index.html",
+    "main.c45ee677.css.map": "/aountykarthik/todo-app/static/css/main.c45ee677.css.map",
+    "main.6faa3cf6.js.map": "/aountykarthik/todo-app/static/js/main.6faa3cf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c45ee677.css",
+    "static/js/main.6faa3cf6.js"
+  ]
+}
